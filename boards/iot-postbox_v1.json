@@ -5,7 +5,7 @@
     },
     "core": "esp32",
     "extra_flags": [
-      "-DARDUINO_IOTPOSTBOXV1",
+      "-DARDUINO_IOTPOSTBOX_V1",
       "-DBOARD_HAS_PSRAM",
       "-DARDUINO_USB_CDC_ON_BOOT=1"
     ],
